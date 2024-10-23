@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/DP1/DD_656dfe4e-1024-4a4c-bb26-70455f423989_Subject.json",
+    "uuid": "656dfe4e-1024-4a4c-bb26-70455f423989",
+    "namespace": "DP1",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "Subject": {
+            "$id": "#Subject",
+            "title": "Subject",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 64,
+            "default": null
+        }
+    }
+}
